@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391146029268",
+    "project_id": "alumnis-d41c8",
+    "storage_bucket": "alumnis-d41c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391146029268:android:3645ce317fe1a799dbfb41",
+        "android_client_info": {
+          "package_name": "com.patigat.dataalumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391146029268-q0fl1rq28krg6nth7fqqjadova9rr3se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LIt0MqVj-LoHyZjPeU5TjveXkiRuGsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391146029268-4jo46grqnnh45od6nte0734qtqm4c040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
